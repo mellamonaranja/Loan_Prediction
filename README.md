@@ -1,6 +1,6 @@
 # Loan Prediction
 
-Predict correlation between loan and income.
+Predict correlation between loan and income, tax, place.
 
 ## Overview
 
